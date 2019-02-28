@@ -1,0 +1,17 @@
+.tile{
+    background: #F02311;
+    color: #FFF;
+    width: 236px;
+    height: 236px;
+    text-align: center;
+    font: normal 1em Arial;
+   
+    display:inline-block;
+    padding:0px;
+    margin:0px;
+}
+.tileCollection{
+    border:1px solid red;
+    text-align:center;
+
+}
